@@ -4,23 +4,25 @@
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course
+- Intro to Data Science
 
-- Course 2
+- Into. to Business Finance
 
-- Course 3
+- Entrepreneurial Oppurtunity Analysis
 
-- Course 4
+- International & Comparative Dimensions of Business
+
+_ Business Law
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Gaming
 
-- Thing 2
+- Reading articles
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Basketball
 
 ***
 
