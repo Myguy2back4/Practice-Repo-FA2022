@@ -2,28 +2,28 @@
 
 ### Spring 2023
 
-DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
+DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in:
 
-- Intro to Data Science
+-   Intro to Data Science
 
-- Into. to Business Finance
+-   Into. to Business Finance
 
-- Entrepreneurial Oppurtunity Analysis
+-   Entrepreneurial Oppurtunity Analysis
 
-- International & Comparative Dimensions of Business
+-   International & Comparative Dimensions of Business
 
-_ Business Law
+\_ Business Law
 
 **Hobbies:**
 
-I am _passionate about_: 
+I am *passionate about*:
 
-- Gaming
+-   Gaming
 
-- Reading articles
+-   Reading articles
 
-- Basketball
+-   Basketball
 
-***
+------------------------------------------------------------------------
 
 > Last modified: YYYY/MM/DD
